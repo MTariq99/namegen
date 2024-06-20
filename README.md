@@ -14,13 +14,13 @@ Importing the Package:
 
 Import the namegen package in your Go files:
 
-go
-Copy code
+```go
 import (
     "fmt"
     "math/rand"
     "github.com/MTariq99/namegen"
 )
+```
 Initializing the Generator:
 
 Initialize a new name generator with a seed:
