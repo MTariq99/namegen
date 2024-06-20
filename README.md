@@ -5,9 +5,9 @@ Installation
 To use the namegen package, ensure you have Go installed. You can install the package with go get:
 
 bash
-Copy code
+```
 go get -u github.com/MTariq99/namegen
-Replace github.com/MTariq99/namegen with the actual path to your repository on GitHub.
+```
 
 Usage
 Importing the Package:
