@@ -14,7 +14,6 @@ Importing the Package
 Import the namegen package in your Go files:
 
 ```go
-Copy code
 import (
     "fmt"
     "math/rand"
@@ -25,7 +24,6 @@ Initializing the Generator
 Initialize a new name generator with a seed:
 
 ```go
-Copy code
 seed := int64(42) // Replace with your desired seed
 generator := namegen.NewGenerator(seed)
 Generating Unique Names
