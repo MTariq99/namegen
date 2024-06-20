@@ -2,7 +2,8 @@ package namegen
 
 import (
 	"math/rand"
-	"nameGen/consts"
+
+	"github.com/mtariq99/namegen/consts"
 )
 
 type nameGenImpl interface {

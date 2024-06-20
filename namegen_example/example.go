@@ -3,8 +3,9 @@ package namegen_example
 import (
 	"fmt"
 	"math/rand"
-	"nameGen/namegen"
 	"time"
+
+	"github.com/mtariq99/namegen/namegen"
 )
 
 // ExampleNewGenerator demonstrates how to create a new name generator with a seed.

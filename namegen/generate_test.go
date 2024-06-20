@@ -1,9 +1,10 @@
 package namegen
 
 import (
-	"nameGen/consts"
 	"testing"
 	"time"
+
+	"github.com/mtariq99/namegen/consts"
 )
 
 func TestGetUniqueName(t *testing.T) {
