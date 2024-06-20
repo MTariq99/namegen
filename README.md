@@ -31,7 +31,6 @@ Generating Unique Names
 ```
 
 ```go
-Copy code
 name1 := generator.GetUniqueName()
 name2 := generator.GetUniqueName()
 
@@ -49,7 +48,6 @@ Example
 Here’s an example demonstrating the usage of the namegen package:
 
 ```go
-Copy code
 package main
 
 import (
