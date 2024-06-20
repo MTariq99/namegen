@@ -6,7 +6,7 @@ To use the namegen package, ensure you have Go installed. You can install the pa
 
 bash
 ```
-go get -u github.com/MTariq99/namegen
+go get -u github.com/mtariq99/namegen
 ```
 
 Usage
